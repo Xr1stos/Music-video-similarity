@@ -1,0 +1,402 @@
+RESULTS:
+
+
+1
+
+---> country_roads   https://www.youtube.com/watch?v=ZVz_IJoyO6Y <---
+
+*Similarity based on audio and video features:
+|- all_star  Score: 0.975548   https://www.youtube.com/watch?v=L_jWHffIx5E
+|- s.o.s  Score: 0.972077   https://www.youtube.com/watch?v=EbBGkqll8lI
+
+*Similarity based on spotify features:
+|- self_care  Score: 0.99769   https://www.youtube.com/watch?v=SsKT0s5J8ko
+|- lets_do_it_again  Score: 0.993188   https://www.youtube.com/watch?v=q6fgVVlPl08
+
+*Similarity based on all features:
+|- s.o.s  Score: 0.964813   https://www.youtube.com/watch?v=EbBGkqll8lI
+|- my_way  Score: 0.964713   https://www.youtube.com/watch?v=Dn8vzTsnPps
+
+2
+
+---> straight_out_the_gate   https://www.youtube.com/watch?v=t4kkzsRJObE <---
+
+*Similarity based on audio and video features:
+|- stir_fry  Score: 0.971928   https://www.youtube.com/watch?v=HI-mXMr8glQ
+|- motorsport  Score: 0.968866   https://www.youtube.com/watch?v=9v_rtaye2yY
+
+*Similarity based on spotify features:
+|- ruby  Score: 0.9826   https://www.youtube.com/watch?v=qObzgUfCl28
+|- system  Score: 0.977451   https://www.youtube.com/watch?v=E7trsy11auM
+
+*Similarity based on all features:
+|- stir_fry  Score: 0.967033   https://www.youtube.com/watch?v=HI-mXMr8glQ
+|- switch  Score: 0.965887   https://www.youtube.com/watch?v=ZKeT3Eoc9_s
+
+3
+
+---> forbidden_voices   https://www.youtube.com/watch?v=Zv1QV6lrc_Y <---
+
+*Similarity based on audio and video features:
+|- wont_look_back  Score: 0.980434   https://www.youtube.com/watch?v=kv_cwzAIOHs
+|- flashlight  Score: 0.977641   https://www.youtube.com/watch?v=XrMssQ2JB48
+
+*Similarity based on spotify features:
+|- do_ya_thang  Score: 0.994722   https://www.youtube.com/watch?v=JzDkN_PRWgw
+|- candy_shop  Score: 0.992404   https://www.youtube.com/watch?v=SRcnnId15BA
+
+*Similarity based on all features:
+|- wont_look_back  Score: 0.980313   https://www.youtube.com/watch?v=kv_cwzAIOHs
+|- curl_of_the_burl  Score: 0.974123   https://www.youtube.com/watch?v=lAihDAJX8Ow
+
+4
+
+---> welcome_home   https://www.youtube.com/watch?v=n0H3RlaQVrM <---
+
+*Similarity based on audio and video features:
+|- absolutely  Score: 0.969773   https://www.youtube.com/watch?v=ZIANBamMgas
+|- mass_destruction  Score: 0.9657   https://www.youtube.com/watch?v=uzgBD2wysuI
+
+*Similarity based on spotify features:
+|- motivation  Score: 0.994717   https://www.youtube.com/watch?v=X-iBGSLkfCU
+|- superheroes  Score: 0.993878   https://www.youtube.com/watch?v=WIm1GgfRz6M
+
+*Similarity based on all features:
+|- absolutely  Score: 0.965971   https://www.youtube.com/watch?v=ZIANBamMgas
+|- mass_destruction  Score: 0.964677   https://www.youtube.com/watch?v=uzgBD2wysuI
+
+5
+
+---> g.o.m.d.   https://www.youtube.com/watch?v=vHU6ZRQJ50Q <---
+
+*Similarity based on audio and video features:
+|- stir_fry  Score: 0.966472   https://www.youtube.com/watch?v=HI-mXMr8glQ
+|- love_and_reggae  Score: 0.961951   https://www.youtube.com/watch?v=0tTuDl8HlZs
+
+*Similarity based on spotify features:
+|- black_betty  Score: 0.998234   https://www.youtube.com/watch?v=I_2D8Eo15wE
+|- savior  Score: 0.995217   https://www.youtube.com/watch?v=e8X3ACToii0
+
+*Similarity based on all features:
+|- stir_fry  Score: 0.96249   https://www.youtube.com/watch?v=HI-mXMr8glQ
+|- Kevin's_heart  Score: 0.960482   https://www.youtube.com/watch?v=ufynqs_COF4
+
+6
+
+---> higher   https://www.youtube.com/watch?v=bsENfTmAdeI <---
+
+*Similarity based on audio and video features:
+|- these_days  Score: 0.983448   https://www.youtube.com/watch?v=pjTj-_55WZ8
+|- not_giving_in  Score: 0.982622   https://www.youtube.com/watch?v=J9-Lwpgfd1E
+
+*Similarity based on spotify features:
+|- natural_blues  Score: 0.997799   https://www.youtube.com/watch?v=z3YMxM1_S48
+|- breakfast_at_tiffany's  Score: 0.995266   https://www.youtube.com/watch?v=1ClCpfeIELw
+
+*Similarity based on all features:
+|- not_giving_in  Score: 0.981056   https://www.youtube.com/watch?v=J9-Lwpgfd1E
+|- these_days  Score: 0.979468   https://www.youtube.com/watch?v=pjTj-_55WZ8
+
+7
+
+---> never_leave   https://www.youtube.com/watch?v=dU3r68jWp0w <---
+
+*Similarity based on audio and video features:
+|- irish_son  Score: 0.96621   https://www.youtube.com/watch?v=WsW8wiWDa0A
+|- these_days  Score: 0.962738   https://www.youtube.com/watch?v=pjTj-_55WZ8
+
+*Similarity based on spotify features:
+|- natural_blues  Score: 0.993804   https://www.youtube.com/watch?v=z3YMxM1_S48
+|- the_look  Score: 0.993532   https://www.youtube.com/watch?v=LlVI7ZNiFlI
+
+*Similarity based on all features:
+|- irish_son  Score: 0.967626   https://www.youtube.com/watch?v=WsW8wiWDa0A
+|- these_days  Score: 0.963202   https://www.youtube.com/watch?v=pjTj-_55WZ8
+
+8
+
+---> fee_ra_huri   https://www.youtube.com/watch?v=J56VVtlZCGE <---
+
+*Similarity based on audio and video features:
+|- zombie  Score: 0.965898   https://www.youtube.com/watch?v=9XaS93WMRQQ
+|- rusted_nail  Score: 0.955855   https://www.youtube.com/watch?v=R9lCXVFCs20
+
+*Similarity based on spotify features:
+|- cant_be_tamed  Score: 0.991001   https://www.youtube.com/watch?v=sjSG6z_13-Q
+|- lonesome_rider  Score: 0.99068   https://www.youtube.com/watch?v=7WdO9KhcUKE
+
+*Similarity based on all features:
+|- zombie  Score: 0.959855   https://www.youtube.com/watch?v=9XaS93WMRQQ
+|- i_was_jack  Score: 0.950233   https://www.youtube.com/watch?v=cYzY2a64Sns
+
+9
+
+---> norf_norf   https://www.youtube.com/watch?v=mb6Jc4juSF8 <---
+
+*Similarity based on audio and video features:
+|- california_gurls  Score: 0.982325   https://www.youtube.com/watch?v=F57P9C4SAW4
+|- bubblin  Score: 0.981665   https://www.youtube.com/watch?v=7PmUtmfTmbg
+
+*Similarity based on spotify features:
+|- drowning  Score: 0.995578   https://www.youtube.com/watch?v=GZXHBgjQjNM
+|- started_from_the_bottom  Score: 0.995171   https://www.youtube.com/watch?v=RubBzkZzpUA
+
+*Similarity based on all features:
+|- california_gurls  Score: 0.977979   https://www.youtube.com/watch?v=F57P9C4SAW4
+|- flames  Score: 0.975846   https://www.youtube.com/watch?v=J75enyWdbBM
+
+10
+
+---> while_we_sleep   https://www.youtube.com/watch?v=vBZ5SLJmfdw <---
+
+*Similarity based on audio and video features:
+|- the_thunder_rolls  Score: 0.967201   https://www.youtube.com/watch?v=36Vs_JoIvjA
+|- tremor  Score: 0.965278   https://www.youtube.com/watch?v=9vMh9f41pqE
+
+*Similarity based on spotify features:
+|- shoot_to_thrill  Score: 0.97227   https://www.youtube.com/watch?v=xRQnJyP77tY
+|- lost_on_you  Score: 0.971854   https://www.youtube.com/watch?v=hn3wJ1_1Zsg
+
+*Similarity based on all features:
+|- samurai  Score: 0.964223   https://www.youtube.com/watch?v=zSguPHYRi9M
+|- tremor  Score: 0.961577   https://www.youtube.com/watch?v=9vMh9f41pqE
+
+11
+
+---> square_hammer   https://www.youtube.com/watch?v=VqoyKzgkqR4 <---
+
+*Similarity based on audio and video features:
+|- cryin_like_a_bitch  Score: 0.949134   https://www.youtube.com/watch?v=0eXIOK2vOhM
+|- given_up  Score: 0.948293   https://www.youtube.com/watch?v=0xyxtzD54rM
+
+*Similarity based on spotify features:
+|- i_apologize  Score: 0.988174   https://www.youtube.com/watch?v=OzvasAJIHb4
+|- what_goes_around  Score: 0.987994   https://www.youtube.com/watch?v=IC8qPpnD0uE
+
+*Similarity based on all features:
+|- given_up  Score: 0.947915   https://www.youtube.com/watch?v=0xyxtzD54rM
+|- failure  Score: 0.947032   https://www.youtube.com/watch?v=fVIh1MFWDVw
+
+12
+
+---> children_of_the_sun   https://www.youtube.com/watch?v=fclmGZrnvzk <---
+
+*Similarity based on audio and video features:
+|- beam_me_up  Score: 0.964821   https://www.youtube.com/watch?v=mp-IZEFqrG0
+|- bohemian_like_you  Score: 0.963291   https://www.youtube.com/watch?v=CU3mc0yvRNk
+
+*Similarity based on spotify features:
+|- Papaoutai  Score: 0.97811   https://www.youtube.com/watch?v=oiKj0Z_Xnjc
+|- lose_control  Score: 0.975077   https://www.youtube.com/watch?v=IyLChcdDJl8
+
+*Similarity based on all features:
+|- carolina_can  Score: 0.960018   https://www.youtube.com/watch?v=GzMJ6DvrXKE
+|- bohemian_like_you  Score: 0.959218   https://www.youtube.com/watch?v=CU3mc0yvRNk
+
+13
+
+---> element.   https://www.youtube.com/watch?v=glaG64Ao7sM <---
+
+*Similarity based on audio and video features:
+|- started_from_the_bottom  Score: 0.965139   https://www.youtube.com/watch?v=RubBzkZzpUA
+|- atm  Score: 0.963373   https://www.youtube.com/watch?v=vUTI4bPdlgE
+
+*Similarity based on spotify features:
+|- sunlight  Score: 0.989566   https://www.youtube.com/watch?v=Bparw9Jo3dk
+|- powerful  Score: 0.98826   https://www.youtube.com/watch?v=o6b9JpBFjd4
+
+*Similarity based on all features:
+|- affairs_of_the_heart  Score: 0.960668   https://www.youtube.com/watch?v=HT2789urycI
+|- atm  Score: 0.960062   https://www.youtube.com/watch?v=vUTI4bPdlgE
+
+14
+
+---> no_money   https://www.youtube.com/watch?v=xUVz4nRmxn4 <---
+
+*Similarity based on audio and video features:
+|- red_lights  Score: 0.98165   https://www.youtube.com/watch?v=CFF0mV24WCY
+|- these_days  Score: 0.977646   https://www.youtube.com/watch?v=pjTj-_55WZ8
+
+*Similarity based on spotify features:
+|- memories  Score: 0.996196   https://www.youtube.com/watch?v=NUVCQXMUVnI
+|- two_princes  Score: 0.995815   https://www.youtube.com/watch?v=wsdy_rct6uo
+
+*Similarity based on all features:
+|- red_lights  Score: 0.980531   https://www.youtube.com/watch?v=CFF0mV24WCY
+|- these_days  Score: 0.974852   https://www.youtube.com/watch?v=pjTj-_55WZ8
+
+15
+
+---> let_it_roll   https://www.youtube.com/watch?v=honzPhGqcE4 <---
+
+*Similarity based on audio and video features:
+|- bubblin  Score: 0.980367   https://www.youtube.com/watch?v=7PmUtmfTmbg
+|- anytime  Score: 0.979206   https://www.youtube.com/watch?v=W46raxKFk2Y
+
+*Similarity based on spotify features:
+|- lose_yourself_to_dance  Score: 0.991829   https://www.youtube.com/watch?v=NF-kLy44Hls
+|- still_waiting  Score: 0.991188   https://www.youtube.com/watch?v=qO-mSLxih-c
+
+*Similarity based on all features:
+|- anytime  Score: 0.979659   https://www.youtube.com/watch?v=W46raxKFk2Y
+|- bubblin  Score: 0.979127   https://www.youtube.com/watch?v=7PmUtmfTmbg
+
+16
+
+---> i_love_it   https://www.youtube.com/watch?v=UxxajLWwzqY <---
+
+*Similarity based on audio and video features:
+|- toxic  Score: 0.97397   https://www.youtube.com/watch?v=LOZuxwVk7TU
+|- galvanize  Score: 0.973457   https://www.youtube.com/watch?v=Xu3FTEmN-eg
+
+*Similarity based on spotify features:
+|- ping_pong  Score: 0.963213   https://www.youtube.com/watch?v=Z8V5GfFeUDs
+|- walk  Score: 0.962742   https://www.youtube.com/watch?v=AkFqg5wAuFk
+
+*Similarity based on all features:
+|- toxic  Score: 0.974496   https://www.youtube.com/watch?v=LOZuxwVk7TU
+|- galvanize  Score: 0.970573   https://www.youtube.com/watch?v=Xu3FTEmN-eg
+
+17
+
+---> bad_at_love   https://www.youtube.com/watch?v=xdYFuCp3m9k <---
+
+*Similarity based on audio and video features:
+|- 6_days  Score: 0.975372   https://www.youtube.com/watch?v=A1NmCvuxQ3o
+|- feel  Score: 0.973505   https://www.youtube.com/watch?v=rQ7tMWOCQlM
+
+*Similarity based on spotify features:
+|- Lets_hurt_tonight  Score: 0.993842   https://www.youtube.com/watch?v=8wGN7D03Nho
+|- crystallize  Score: 0.990025   https://www.youtube.com/watch?v=aHjpOzsQ9YI
+
+*Similarity based on all features:
+|- feel  Score: 0.974507   https://www.youtube.com/watch?v=rQ7tMWOCQlM
+|- 6_days  Score: 0.970002   https://www.youtube.com/watch?v=A1NmCvuxQ3o
+
+18
+
+---> witchcraft   https://www.youtube.com/watch?v=ogMNV33AhCY <---
+
+*Similarity based on audio and video features:
+|- red_cold_river  Score: 0.968004   https://www.youtube.com/watch?v=2kCbFmjEi6A
+|- rusted_nail  Score: 0.96492   https://www.youtube.com/watch?v=R9lCXVFCs20
+
+*Similarity based on spotify features:
+|- may_it_be  Score: 0.992978   https://www.youtube.com/watch?v=-JruBBQkJEY
+|- you_know_you're_right  Score: 0.99122   https://www.youtube.com/watch?v=qv96yJYhk3M
+
+*Similarity based on all features:
+|- red_cold_river  Score: 0.965357   https://www.youtube.com/watch?v=2kCbFmjEi6A
+|- paint_it_black  Score: 0.961102   https://www.youtube.com/watch?v=O4irXQhgMqg
+
+19
+
+---> the_sound_of_silence   https://www.youtube.com/watch?v=u9Dg-g7t2l4 <---
+
+*Similarity based on audio and video features:
+|- other_people  Score: 0.950114   https://www.youtube.com/watch?v=Lv8VKCz3Cdg
+|- in_case_you_didn't_know  Score: 0.946304   https://www.youtube.com/watch?v=7qaHdHpSjX8
+
+*Similarity based on spotify features:
+|- given_up  Score: 0.977118   https://www.youtube.com/watch?v=0xyxtzD54rM
+|- the_hum  Score: 0.971455   https://www.youtube.com/watch?v=exJlapzPnlc
+
+*Similarity based on all features:
+|- one_people  Score: 0.944396   https://www.youtube.com/watch?v=eNQTZ_lxLXs
+|- other_people  Score: 0.944067   https://www.youtube.com/watch?v=Lv8VKCz3Cdg
+
+20
+
+---> be_alright   https://www.youtube.com/watch?v=I0czvJ_jikg <---
+
+*Similarity based on audio and video features:
+|- she_got_the_best_of_me  Score: 0.964921   https://www.youtube.com/watch?v=a2a9fgPI_PI
+|- sleep_on_the_floor  Score: 0.957343   https://www.youtube.com/watch?v=v4pi1LxuDHc
+
+*Similarity based on spotify features:
+|- girls_like_you  Score: 0.983071   https://www.youtube.com/watch?v=aJOTlE1K90k
+|- blue_jeans  Score: 0.981825   https://www.youtube.com/watch?v=JRWox-i6aAk
+
+*Similarity based on all features:
+|- she_got_the_best_of_me  Score: 0.960142   https://www.youtube.com/watch?v=a2a9fgPI_PI
+|- one_people  Score: 0.956305   https://www.youtube.com/watch?v=eNQTZ_lxLXs
+
+21
+
+---> blue_on_black   https://www.youtube.com/watch?v=IMCfSjF_vSg <---
+
+*Similarity based on audio and video features:
+|- even_if_it_breaks_your_heart  Score: 0.968326   https://www.youtube.com/watch?v=D-5GnZYxI4M
+|- shut_your_mouth  Score: 0.96795   https://www.youtube.com/watch?v=067YF8KHdTM
+
+*Similarity based on spotify features:
+|- till_i_die  Score: 0.98281   https://www.youtube.com/watch?v=pKDABrZ418c
+|- turn_up_the_speakers  Score: 0.978232   https://www.youtube.com/watch?v=dzHdo4yxidc
+
+*Similarity based on all features:
+|- cool_for_the_summer  Score: 0.966157   https://www.youtube.com/watch?v=il9nqWw9W3Y
+|- i_apologize  Score: 0.965098   https://www.youtube.com/watch?v=OzvasAJIHb4
+
+22
+
+---> this_is_america   https://www.youtube.com/watch?v=VYOjWnS4cMY <---
+
+*Similarity based on audio and video features:
+|- sugar  Score: 0.965259   https://www.youtube.com/watch?v=4B5WJ9WCX-c
+|- one_on_one  Score: 0.957795   https://www.youtube.com/watch?v=Y19FzsqM1as
+
+*Similarity based on spotify features:
+|- one  Score: 0.967476   https://www.youtube.com/watch?v=PkQ5rEJaTmk
+|- rise_up  Score: 0.96697   https://www.youtube.com/watch?v=zoMYU_nOGNg
+
+*Similarity based on all features:
+|- sugar  Score: 0.964751   https://www.youtube.com/watch?v=4B5WJ9WCX-c
+|- one_on_one  Score: 0.95663   https://www.youtube.com/watch?v=Y19FzsqM1as
+
+23
+
+---> the_boys_are_back   https://www.youtube.com/watch?v=A1NZcH2haIM <---
+
+*Similarity based on audio and video features:
+|- dielectric  Score: 0.981417   https://www.youtube.com/watch?v=osjYf8FBXbU
+|- failure  Score: 0.97717   https://www.youtube.com/watch?v=fVIh1MFWDVw
+
+*Similarity based on spotify features:
+|- saints_of_los_angeles  Score: 0.968747   https://www.youtube.com/watch?v=nQMyHnQe-RA
+|- no_woman_no_cry  Score: 0.968413   https://www.youtube.com/watch?v=kOmhVEiq95I
+
+*Similarity based on all features:
+|- dielectric  Score: 0.980818   https://www.youtube.com/watch?v=osjYf8FBXbU
+|- burn_it_to_the_ground  Score: 0.970476   https://www.youtube.com/watch?v=iSf_cs4-E-I
+
+24
+
+---> youngblood   https://www.youtube.com/watch?v=-RJSbO8UZVY <---
+
+*Similarity based on audio and video features:
+|- three_chords_and_the_truth  Score: 0.978526   https://www.youtube.com/watch?v=WO8rU4B5gDA
+|- angel_eyes  Score: 0.974068   https://www.youtube.com/watch?v=GKOR8TddfcM
+
+*Similarity based on spotify features:
+|- cryin_like_a_bitch  Score: 0.972611   https://www.youtube.com/watch?v=0eXIOK2vOhM
+|- we_can't_stop  Score: 0.971113   https://www.youtube.com/watch?v=KzKLd9p4x3w
+
+*Similarity based on all features:
+|- three_chords_and_the_truth  Score: 0.973962   https://www.youtube.com/watch?v=WO8rU4B5gDA
+|- yours_if_you_want_it  Score: 0.969069   https://www.youtube.com/watch?v=Qwu-B6gPHKU
+
+25
+
+---> wont_stop_rocking   https://www.youtube.com/watch?v=USVg_E7r20g <---
+
+*Similarity based on audio and video features:
+|- arcade_mammoth  Score: 0.977726   https://www.youtube.com/watch?v=3Qq7kNjg-KY
+|- flashlight  Score: 0.977207   https://www.youtube.com/watch?v=XrMssQ2JB48
+
+*Similarity based on spotify features:
+|- vertigo  Score: 0.992825   https://www.youtube.com/watch?v=98W9QuMq-2k
+|- This_Is_What_It_Feels_Like  Score: 0.985425   https://www.youtube.com/watch?v=BR_DFMUzX4E
+
+*Similarity based on all features:
+|- back_in_time  Score: 0.975044   https://www.youtube.com/watch?v=HL-8bmHkbuo
+|- space_jungle  Score: 0.973782   https://www.youtube.com/watch?v=06VLVtmU_KA
