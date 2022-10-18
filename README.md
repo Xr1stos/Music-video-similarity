@@ -1,7 +1,5 @@
 # Music video similarity
-Author: Christos Platias
-
-Predicting video clip similarity using  image and audio features, as well as  audio features from spotify.
+Predicting video clip similarity using  image and audio features, as well as  audio features from spotify. 
 
 
 # File descriptions:
