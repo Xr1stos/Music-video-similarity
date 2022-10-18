@@ -1,5 +1,5 @@
 # Music video similarity
-Predicting video clip similarity using  image and audio features, as well as  audio features from spotify. 
+Predicting video clip similarity using  image and audio features, as well as  audio features from spotify. See demo results in EVAL_Results file and watch the original video clip and the suggested similar ones, in order to evaluate the performance.
 
 
 # File descriptions:
